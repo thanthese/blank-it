@@ -18,3 +18,5 @@ Run `java -jar blank-it.jar temp.txt` and get
     4
     3 4 __
     5
+
+This is useful for creating save files for [i-know-kung-fu](http://github.com/thanthese/i-know-kung-fu) -- my flashcard program.
